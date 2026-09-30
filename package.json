@@ -1,8 +1,16 @@
 {
   "name": "@bhargavp22/react-native-boilerplate",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Production-ready enterprise React Native TypeScript boilerplate with Redux Toolkit, React Navigation, Reanimated, Theme Engine, Path Aliases (@), and Reusable UI Components.",
   "main": "template.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargavp7622/RNBoilerPlate.git"
+  },
+  "homepage": "https://github.com/bhargavp7622/RNBoilerPlate#readme",
+  "bugs": {
+    "url": "https://github.com/bhargavp7622/RNBoilerPlate/issues"
+  },
   "publishConfig": {
     "access": "public"
   },
