@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.jpg" width="100%" alt="The React Native Boilerplate" />
+  <img src="https://raw.githubusercontent.com/bhargavp7622/RNBoilerPlate/main/assets/banner.jpg" width="100%" alt="The React Native Boilerplate" />
 
   <br />
   <br />
