@@ -1,6 +1,6 @@
 {
   "name": "@bhargavp21/react-native-boilerplate",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Production-ready enterprise React Native TypeScript boilerplate with Redux Toolkit, React Navigation, Reanimated, Theme Engine, Path Aliases (@), and Reusable UI Components.",
   "main": "template.config.js",
   "repository": {
