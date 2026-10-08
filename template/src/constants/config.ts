@@ -1,6 +1,6 @@
 export const APP_CONFIG = {
   appName: 'ReactNativeBoilerplate',
-  packageName: '@bhargavp22/react-native-boilerplate',
+  packageName: '@bhargavp21/react-native-boilerplate',
   version: '1.0.0',
   apiBaseUrl: 'https://api.example.com',
   storageKeys: {

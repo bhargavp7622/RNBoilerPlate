@@ -7,8 +7,8 @@
 
   <p align="center">
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
-    <a href="https://npmjs.com/package/@bhargavp22/react-native-boilerplate"><img src="https://img.shields.io/npm/v/@bhargavp22/react-native-boilerplate.svg?style=flat-square&color=CB3837&logo=npm" alt="NPM Version" /></a>
-    <a href="https://npmjs.com/package/@bhargavp22/react-native-boilerplate"><img src="https://img.shields.io/npm/dm/@bhargavp22/react-native-boilerplate.svg?style=flat-square&color=2088FF&logo=npm" alt="Downloads" /></a>
+    <a href="https://npmjs.com/package/@bhargavp21/react-native-boilerplate"><img src="https://img.shields.io/npm/v/@bhargavp21/react-native-boilerplate.svg?style=flat-square&color=CB3837&logo=npm" alt="NPM Version" /></a>
+    <a href="https://npmjs.com/package/@bhargavp21/react-native-boilerplate"><img src="https://img.shields.io/npm/dm/@bhargavp21/react-native-boilerplate.svg?style=flat-square&color=2088FF&logo=npm" alt="Downloads" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-100%25-blue.svg?style=flat-square&logo=typescript" alt="TypeScript" /></a>
     <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/react--native-0.87.1-cyan.svg?style=flat-square&logo=react" alt="React Native" /></a>
     <a href="https://redux-toolkit.js.org/"><img src="https://img.shields.io/badge/redux--toolkit-2.5-purple.svg?style=flat-square&logo=redux" alt="Redux Toolkit" /></a>
@@ -50,10 +50,10 @@ Run any of the following commands in your terminal to generate a new application
 
 ```bash
 # Recommended: Using React Native Community CLI
-npx @react-native-community/cli@latest init MyApp --template @bhargavp22/react-native-boilerplate
+npx @react-native-community/cli@latest init MyApp --template @bhargavp21/react-native-boilerplate
 
 # Alternative: Using React Native CLI
-npx react-native@latest init MyApp --template @bhargavp22/react-native-boilerplate
+npx react-native@latest init MyApp --template @bhargavp21/react-native-boilerplate
 
 # Alternative: Direct from GitHub repository
 npx react-native@latest init MyApp --template https://github.com/bhargavp7622/RNBoilerPlate.git
@@ -243,7 +243,7 @@ yarn android
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://npmjs.com/~bhargavp22">
+  <a href="https://npmjs.com/~bhargavp21">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM Profile" />
   </a>
 

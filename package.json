@@ -1,5 +1,5 @@
 {
-  "name": "@bhargavp22/react-native-boilerplate",
+  "name": "@bhargavp21/react-native-boilerplate",
   "version": "1.0.8",
   "description": "Production-ready enterprise React Native TypeScript boilerplate with Redux Toolkit, React Navigation, Reanimated, Theme Engine, Path Aliases (@), and Reusable UI Components.",
   "main": "template.config.js",
@@ -32,13 +32,21 @@
   },
   "keywords": [
     "react-native",
+    "react-native-boilerplate",
+    "react-native-template",
+    "react-native-starter",
     "boilerplate",
+    "template",
     "typescript",
+    "starter-kit",
+    "react-native-typescript",
     "redux-toolkit",
     "react-navigation",
     "reanimated",
     "ui-components",
-    "template"
+    "mobile-app",
+    "ios",
+    "android"
   ],
   "author": "Bhargav Parmar",
   "license": "MIT",

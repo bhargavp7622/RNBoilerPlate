@@ -50,7 +50,7 @@ export const HomeScreen: React.FC = () => {
           </AppText>
           <Spacer size="xs" />
           <AppText variant="body1" color="white" style={{ opacity: 0.9 }}>
-            Welcome to @bhargav/react-native-boilerplate
+            Welcome to @bhargavp21/react-native-boilerplate
           </AppText>
         </AppCard>
 
